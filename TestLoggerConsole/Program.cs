@@ -10,6 +10,9 @@ namespace TestLoggerConsole
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello world!");
+            Console.ReadKey();
+            /*
             Logger<double> logger = new Logger<double>(ReportTemplate.Speed);
             Random upper = new Random();
             Random lower = new Random();
@@ -19,7 +22,7 @@ namespace TestLoggerConsole
                 logger.LogState(value);
             }
             logger.LogState(5000);
-            logger.WriteLogsToFile();
+            logger.WriteLogsToFile();*/
         }
     }
 }

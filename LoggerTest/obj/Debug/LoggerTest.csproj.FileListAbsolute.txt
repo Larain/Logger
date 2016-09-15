@@ -1,0 +1,12 @@
+D:\Dev\Git\Logger\LoggerTest\bin\Debug\LoggerTest.dll
+D:\Dev\Git\Logger\LoggerTest\bin\Debug\LoggerTest.pdb
+D:\Dev\Git\Logger\LoggerTest\bin\Debug\Castle.Core.dll
+D:\Dev\Git\Logger\LoggerTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Dev\Git\Logger\LoggerTest\bin\Debug\TestStack.White.dll
+D:\Dev\Git\Logger\LoggerTest\bin\Debug\Castle.Core.xml
+D:\Dev\Git\Logger\LoggerTest\bin\Debug\TestStack.White.pdb
+D:\Dev\Git\Logger\LoggerTest\bin\Debug\TestStack.White.xml
+D:\Dev\Git\Logger\LoggerTest\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Dev\Git\Logger\LoggerTest\obj\Debug\LoggerTest.csprojResolveAssemblyReference.cache
+D:\Dev\Git\Logger\LoggerTest\obj\Debug\LoggerTest.dll
+D:\Dev\Git\Logger\LoggerTest\obj\Debug\LoggerTest.pdb

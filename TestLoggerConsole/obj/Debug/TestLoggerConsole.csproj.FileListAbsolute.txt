@@ -1,0 +1,6 @@
+D:\Dev\Git\Logger\TestLoggerConsole\bin\Debug\TestLoggerConsole.exe.config
+D:\Dev\Git\Logger\TestLoggerConsole\bin\Debug\TestLoggerConsole.exe
+D:\Dev\Git\Logger\TestLoggerConsole\bin\Debug\TestLoggerConsole.pdb
+D:\Dev\Git\Logger\TestLoggerConsole\obj\Debug\TestLoggerConsole.csprojResolveAssemblyReference.cache
+D:\Dev\Git\Logger\TestLoggerConsole\obj\Debug\TestLoggerConsole.exe
+D:\Dev\Git\Logger\TestLoggerConsole\obj\Debug\TestLoggerConsole.pdb

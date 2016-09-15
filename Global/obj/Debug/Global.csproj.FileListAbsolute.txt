@@ -1,0 +1,9 @@
+D:\Dev\Git\Logger\Global\bin\Debug\Global.exe.config
+D:\Dev\Git\Logger\Global\bin\Debug\Global.exe
+D:\Dev\Git\Logger\Global\bin\Debug\Global.pdb
+D:\Dev\Git\Logger\Global\obj\Debug\Global.csprojResolveAssemblyReference.cache
+D:\Dev\Git\Logger\Global\obj\Debug\Global.Form1.resources
+D:\Dev\Git\Logger\Global\obj\Debug\Global.Properties.Resources.resources
+D:\Dev\Git\Logger\Global\obj\Debug\Global.csproj.GenerateResource.Cache
+D:\Dev\Git\Logger\Global\obj\Debug\Global.exe
+D:\Dev\Git\Logger\Global\obj\Debug\Global.pdb
